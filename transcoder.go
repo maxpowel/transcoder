@@ -1,4 +1,4 @@
-package main
+package transcoder
 /*
 Here we have two kind of concurrent jobs: the ffmpeg and the transcoder manager.
 The ffmpeg jobs just run the ffmpeg command and stream the status.
